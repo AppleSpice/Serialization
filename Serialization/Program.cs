@@ -25,7 +25,7 @@ namespace Serialization
 
 
             string FilePath = "C:/Temp/";
-            string FileName = "Gaven.xml";
+            string FileName = "part2.xml";
 
             TextWriter writer = new StreamWriter(FilePath + FileName);
 
